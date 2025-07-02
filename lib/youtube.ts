@@ -1,5 +1,5 @@
 // YouTube Data API v3 integration
-const YOUTUBE_API_KEY = "AIzaSyBTN4ndjJyWBRKgTZ_Bi_vcWtee4OqG2Z4"
+
 const YOUTUBE_API_BASE_URL = "https://www.googleapis.com/youtube/v3"
 
 export interface YouTubeVideoData {
